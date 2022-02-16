@@ -1,5 +1,6 @@
 # table-maker
- Make tables from lists for easy reporting
+ Make tables from lists for easy reporting.
+Read more about it [here on the Raxis blog](https://raxis.com/blog/reporting-tools).    
 
 ## Installation
 All required libraries are covered in the Python3 standard lib, so cloning this repository should suffice.
